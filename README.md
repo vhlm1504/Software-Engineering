@@ -53,6 +53,7 @@
 - Github
   - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
   - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  - [OSSU Computer Science](https://github.com/ossu/computer-science)
 - Sites
   - [FreeCodeCamp](https://www.freecodecamp.org/)
   - [ByteByteGO](https://blog.bytebytego.com/)
